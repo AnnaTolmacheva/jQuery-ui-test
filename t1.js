@@ -4,4 +4,5 @@ $( function() {
         $( ui.newPanel ).css( "background-color", "yellow" );
         $( ui.oldPanel ).css( "background-color", "blue" );
     } );
+    console.log("Done");
   } );
