@@ -6,4 +6,5 @@ $( function() {
     } );
     console.log("Done");
     alert("test");
+    alert("test2");
   } );
